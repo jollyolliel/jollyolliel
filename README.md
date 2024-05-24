@@ -1,29 +1,29 @@
 # Who am I
 
-Hi! I am primarily a backend programer but recently trying a bit of frontend. I dont like it at all. I am at school at I think it is **OK**. I can't wait untill the summer holidays! I started programming and the age of 7 and continued since then. I have always found it interesting to build your own stuff.
+Hi! I am primarily a backend programmer, but recently trying a bit of frontend. I don't like it at all. I am at school and I think it is **OK**. I can't wait until the summer holidays! I started programming and the age of 7 and continued since then. I have always found it interesting to build your own stuff.
 
 
-# Programing Languages
+# Programming Languages
 
  - Python
- - Javascript
- - HTML (Even though it is technecly not a programing language)
+ - JavaScript
+ - HTML (Even though it is technically not a programming language)
  - CSS (Again)
 
-# Progects
+# Projects
 
-Just look at my guthub ...
+Just look at my GitHub ...
 
 
 
 # Sources
 
  - Khan Academy. Great to lean the basics
- - Youtube. Coppy people's progects can actualy teach alot!
+ - YouTube. Copy people's projects can actually teach a lot!
  
-	 - Legand youtuber for programing [here](https://www.youtube.com/channel/UCsBjURrPoezykLs9EqgamOA)
-- Github. Addon to peoples projects makes you read code that is not your's
+	 - Legend YouTuber for programming [here](https://www.youtube.com/channel/UCsBjURrPoezykLs9EqgamOA)
+- GitHub. Reading peoples code teaches you a lot.
 
-# Cotributing
+# Contributing
 
-I would love for anyone to contribute. Just please be clear preferably use english (or I will google translate it). I have never Yet! had someone contribute.
+I would love for anyone to contribute. Just please be clear, preferably use English (or I will google translate it). I have never Yet!, had someone contribute.
